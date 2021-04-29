@@ -1,6 +1,6 @@
 # Simple React Todolist App
 
-This is just a simple todolist app built using [React](https://react.org).
+This is just a simple todolist app built using [React](https://reactjs.org).
 It has no styling. The point was to create and test all the basic functions
 a decent todolist app has.
 
