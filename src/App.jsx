@@ -22,7 +22,13 @@ const initialTodos = [
   },
   {
     id: nanoid(),
-    task: "Slap boss",
+    task: "Eat breakfast on the way",
+    done: false,
+    hidden: false
+  },
+  {
+    id: nanoid(),
+    task: "Congratulate everyone on meeting monthly target early",
     done: false,
     hidden: false
   },
