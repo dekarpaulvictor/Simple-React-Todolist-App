@@ -20,18 +20,6 @@ const initialTodos = [
     done: true,
     hidden: false
   },
-  {
-    id: nanoid(),
-    task: "Eat breakfast on the way",
-    done: false,
-    hidden: false
-  },
-  {
-    id: nanoid(),
-    task: "Congratulate everyone on meeting monthly target early",
-    done: false,
-    hidden: false
-  },
 ];
 
 const TodoList = ({list, onTaskDone, onTaskDelete}) => {

@@ -21,6 +21,8 @@ Apart from the usual (adding, marking and crossing off tasks as complete) you ca
 ### Running locally
 
 1. Clone this github repo: `git clone https://github.com/dekarpaulvictor/Simple-React-Todolist-App.git`
-2. Change into the root directory and run `yarn start` or `npm run start`
+2. Change into the app's parent directory and run `yarn` or `yarn add` or `npm
+   install` to install the app's dependencies
+3. Run `yarn start` or `npm run start`
 
 The app will be served at `http://localhost:3000`
